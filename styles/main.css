@@ -1,0 +1,51 @@
+.titlestart {
+	font-family: Arial;
+	font-size: 18px;
+	font-weight: 600;
+}
+.divtitle {
+	display: flex;
+	justify-content: center;
+}
+.imgstart {
+	width: 120px;
+}
+.conteiner1 {
+	float: left;
+	margin-right: 10px;
+}
+.conteiner2 {
+	border: 2px solid black;
+}
+p {
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: 400;
+	margin-left: 10px;
+	margin-top: 0px;
+}
+.titlemain {
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: 400;
+	margin-left: 10px;
+	margin-top: 40px;
+}
+.interfact {
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: 600;
+}
+ul {
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: 400;
+	margin: 0px;
+}
+.avtor {
+	text-align:right;
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: 400;
+	margin-right: 10px;
+}
